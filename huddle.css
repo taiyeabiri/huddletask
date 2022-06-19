@@ -75,6 +75,7 @@ nav {
 }
 
 .footer {
+	letter-spacing: 2px;
 	align-items: flex-start;
 }
 .header img {
